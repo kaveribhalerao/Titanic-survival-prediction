@@ -6,4 +6,4 @@ The sinking of the Titanic is one of the most infamous shipwrecks in the history
 
 About dataset: Contains passenger data Columns: PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked.
 
-In this project, ive done the basic data cleaning, preparation and transformation. Also, ive created various graphs and charts to study the parameters. Later, Ive used The Machine Learning model of Logistic Regression to predict the Survival chances of passengers based on their personal data using Exploratory data analytics.
+In this project, ive done the basic data cleaning, preparation and transformation. Also, ive created various graphs and charts to study the parameters. Later, Ive used The Machine Learning model of Logistic Regression to predict the Survival chances of passengers based on their personal data using Exploratory data analytics..
